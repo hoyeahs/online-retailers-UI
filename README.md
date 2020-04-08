@@ -1,29 +1,16 @@
-# elme
+# Online retailers Ui
 
-## Project setup
-```
-npm install
-```
+## 电商类常用组件
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### WhiteSpace
+*props*
+- size: md lg xg
+- color: css color string 
 
-### Compiles and minifies for production
 ```
-npm run build
+  <WhiteSpace size="md" color="#fff" />
+
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
