@@ -6,5 +6,5 @@ module.exports = {
       }
     }
   },
-  publicPath: '/online-retailers-UI'
+  publicPath: '/online-retailers-UI/example'
 }
