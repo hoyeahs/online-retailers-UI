@@ -2,7 +2,7 @@
 
 ## 电商类常用组件
 
-(Live demo)[https://guoyanhao.github.io/online-retailers-UI/example/index.html#/]
+[Live demo](https://guoyanhao.github.io/online-retailers-UI/example/index.html#/)
 
 ### WhiteSpace
 *props*
