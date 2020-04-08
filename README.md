@@ -4,7 +4,7 @@
 
 ### WhiteSpace
 *props*
-- size: md lg xg
+- size: md \ lg \ xg
 - color: css color string 
 
 ```
