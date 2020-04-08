@@ -5,5 +5,6 @@ module.exports = {
         prependData: '@import "@/assets/scss/common.scss";'
       }
     }
-  }
+  },
+  publicPath: '/online-retailers-UI'
 }
